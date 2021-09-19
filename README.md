@@ -4,12 +4,12 @@
 
 Спринты:      
 
-01 - Предобработка данных(Исследование надежности заемщиков)/__pandas Mystem Counter__
-02 - Исследовательский анализ данных/__pandas numpy matplotlib seaborn__
-03 - Статистический анализ данных/__pandas numpy scipy plotly__   
-04 - Сборный проект 1/__pandas numpy scipy plotly matplotlib seaborn__
-05 - Введение в машинное обучение/__pandas sklearn plotly time__   
-06 - Обучение с учителем/__pandas numpy sklearn seaborn plotly time__      
+01 - Предобработка данных(Исследование надежности заемщиков)/__pandas Mystem Counter__    
+02 - Исследовательский анализ данных/__pandas numpy matplotlib seaborn__    
+03 - Статистический анализ данных/__pandas numpy scipy plotly__       
+04 - Сборный проект 1/__pandas numpy scipy plotly matplotlib seaborn__    
+05 - Введение в машинное обучение/__pandas sklearn plotly time__       
+06 - Обучение с учителем/__pandas numpy sklearn seaborn plotly time__           
 07 - Машинное обучение в бизнесе/  
 08 - Сборный проект2/  
 09 - Линейная алгебра/       
