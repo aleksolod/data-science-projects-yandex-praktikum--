@@ -1,4 +1,4 @@
-#data-science-projects-yandex-praktikum--
+#data-science-projects-yandex-praktikum--       
 В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс Практикума     
 
 Спринты:      
