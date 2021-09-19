@@ -10,7 +10,7 @@
 04 - Сборный проект 1/__pandas numpy scipy plotly matplotlib seaborn__    
 05 - Введение в машинное обучение/__pandas sklearn plotly time__       
 06 - Обучение с учителем/__pandas numpy sklearn seaborn plotly time__           
-07 - Машинное обучение в бизнесе/  
+07 - Машинное обучение в бизнесе/__pandas matplotlib seaborn scipy sklearn numpy__        
 08 - Сборный проект2/  
 09 - Линейная алгебра/       
 10 - Численные методы (градиентный бустинг)/ 
